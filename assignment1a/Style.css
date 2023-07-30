@@ -1,0 +1,67 @@
+h1{
+  text-align: center;
+}
+.dish{
+  
+  display: inline-block;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  margin-top: 50px;
+  margin-left: 100px;
+  padding: 20px;
+  padding-bottom: 10px;
+  padding-top: 0%;
+  background-color: gray;
+  text-align: left;
+  position: relative;
+}
+div h3{
+  font-size: large;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 0px;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: initial;
+  background-color: rgb(244, 181, 160);
+  padding: 5px;
+  position: absolute;
+  right: 0;
+}
+
+div h4{
+  text-align: center;
+  font-size: large;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 0px;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: initial;
+  background-color: rgb(230, 57, 57);
+  padding: 5px;
+  padding-left: 21px;
+  padding-right: 21px;
+  position: absolute;
+  right:0;
+}
+
+div h5{
+  
+  text-align: center;
+  font-size: large;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 0px;
+  margin-bottom: 0s;
+  text-align: center;
+  font-family: initial;
+  background-color: rgb(237, 243, 128);
+  padding: 5px;
+  padding-left: 21px;
+  padding-right: 21px;
+  position: absolute;
+  right: 0;
+
+}
